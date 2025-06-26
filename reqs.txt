@@ -4,7 +4,7 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 numpy==1.26.4
 packaging==24.0
-pandas==2.2.2
+pandas
 patsy==0.5.6
 pillow==10.3.0
 plotly==5.22.0
